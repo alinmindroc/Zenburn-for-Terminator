@@ -19,3 +19,4 @@ cp Zenburn-for-Terminator/config ~/.config/terminator/
 
 
 
+
