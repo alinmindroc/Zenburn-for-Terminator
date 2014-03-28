@@ -18,6 +18,6 @@ git clone https://github.com/alinmindroc/Zenburn-for-Terminator
 cp Zenburn-for-Terminator/config ~/.config/terminator/
 
 
-
-
+Screenshot:
+http://swarm.cs.pub.ro/~amindroc/screenshot.png
 
