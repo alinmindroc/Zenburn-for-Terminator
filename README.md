@@ -5,7 +5,7 @@ Zenburn color scheme for the Terminator terminal emulator
 
 How to install:
 
-1. Create a config file for your terminator if you don't have on already:
+1. Create a config file for your terminator if you don't have one already:
 
 mkdir -p ~/.config/terminator/
 
