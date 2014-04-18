@@ -19,6 +19,6 @@ cp Zenburn-for-Terminator/config ~/.config/terminator/
 
 
 Screenshot:
-!(screenshot.png "Terminator with Zenburn")
+![](screenshot.png "Terminator with Zenburn")
 
 
