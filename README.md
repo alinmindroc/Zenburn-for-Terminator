@@ -19,7 +19,6 @@ cp Zenburn-for-Terminator/config ~/.config/terminator/
 
 
 Screenshot:
-http://swarm.cs.pub.ro/~amindroc/screenshot.png
-![Alt text](screenshot.png "Terminator with Zenburn")
+!(screenshot.png "Terminator with Zenburn")
 
 
