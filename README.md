@@ -15,7 +15,7 @@ How to install:
 
 3. Copy the config file in the terminator config directory:
 
-```p Zenburn-for-Terminator/config ~/.config/terminator/```
+```cp Zenburn-for-Terminator/config ~/.config/terminator/```
 
 4. Restart terminator
 
